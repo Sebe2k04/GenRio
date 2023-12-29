@@ -45,6 +45,7 @@ h1,h2,h3,h4,h5,h6{
     margin-right: auto;
 }
 .genr{
+    overflow-x: hidden;
     padding-top: 100px;
     width: 100%;
     position: absolute;
