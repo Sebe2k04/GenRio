@@ -1,22 +1,35 @@
 @media only screen and (max-width: 600px){
     .intro{
-        font-family: 'Orbitron', sans-serif;
         padding-top: 50px;
         padding-left: 10px;
         text-align: center;
     }
     .intro h4{
         font-size: 50px;
+    }
+    .genr img{
+        width:50%
+    }
+    .genr p{
+        padding: 20px;
+        text-align: justify;
     }
 }
 @media only screen and (min-width: 601px) {
     .intro{
-        font-family: 'Orbitron', sans-serif;
         padding-top: 50px;
         padding-left: 10px;
         text-align: center;
     }
     .intro h4{
         font-size: 50px;
+    }
+    .genr img{
+        width:35%
+    }
+    .genr p{
+        padding-left:50px;
+        padding-right:50px ;
+        text-align: justify;
     }
 }
