@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;700&family=Orbitron&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Noto+Sans:wght@300;400;500;700&family=Orbitron&display=swap');
+
 html {
 	scroll-behavior: smooth;
     overflow-x: hidden;
@@ -19,7 +21,7 @@ body {
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
-    color: #ffffff;
+    color: #ebff56;
 }
 .head-bg{
     width: 100%;
@@ -27,7 +29,7 @@ body {
 .intro{
     font-family: 'Orbitron', sans-serif;
     height: 800px;
-    color: #ffffff;
+    color: #eaff00;
     font-weight: 200;
     margin: 0;
 }
@@ -45,6 +47,8 @@ h1,h2,h3,h4,h5,h6{
 
 }
 .genr{
+    font-family: 'Caveat', cursive;
+    font-size: 22px;
     margin: 0;
     height: 800px;
     padding-top: 50px;
