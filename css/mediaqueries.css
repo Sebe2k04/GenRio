@@ -16,7 +16,11 @@
     .genr p{
         padding-left: 20px;
         padding-right: 20px;
-
+        text-align: justify;
+    }
+    .about p{
+        padding-left: 20px;
+        padding-right: 20px;
         text-align: justify;
     }
 }
@@ -36,6 +40,14 @@
         width: 100%;
     }
     .genr p{
+        padding-left:50px;
+        padding-right:50px;
+        text-align: justify;
+    }
+    .yellowlogo img{
+        width: 40%;
+    }
+    .about p{
         padding-left:50px;
         padding-right:50px;
         text-align: justify;

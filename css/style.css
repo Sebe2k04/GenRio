@@ -48,16 +48,26 @@ h1,h2,h3,h4,h5,h6{
 }
 .genr{
     font-family: 'Caveat', cursive;
-    font-size: 22px;
+    font-size: 25px;
     margin: 0;
     height: 800px;
     padding-top: 50px;
     
 }
-.works{
+.yellowlogo img{
+    width: 50%;
+    position: relative;
+    border-radius: 30px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about{
     margin: 0;
     height: 800px;
-    padding-top: 50px;
-
+    padding-top: 100px;
     width: 100%;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
 }
