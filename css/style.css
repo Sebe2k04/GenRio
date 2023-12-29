@@ -48,11 +48,12 @@ h1,h2,h3,h4,h5,h6{
 .genr{
     margin: 0;
     overflow-x: hidden;
+    height: 800px;
     padding-top: 50px;
     position: absolute;
-    height: 800px;
     background-image: url(../img/genr-bg.jpg);
     background-size: cover; 
-    background-position: center; 
+    background-position: right center; 
     background-attachment: fixed;
+    width: 100%;
 }
