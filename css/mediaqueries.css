@@ -8,7 +8,10 @@
         font-size: 50px;
     }
     .genr img{
-        width:50%
+        width:50%;
+    }
+    .genr{
+        width: 100%;
     }
     .genr p{
         padding: 20px;
@@ -26,6 +29,9 @@
     }
     .genr img{
         width:35%;
+    }
+    .genr{
+        width: 100%;
     }
     .genr p{
         padding-left:50px;
