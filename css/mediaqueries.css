@@ -14,7 +14,9 @@
         width: 100%;
     }
     .genr p{
-        padding: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+
         text-align: justify;
     }
 }
@@ -35,7 +37,7 @@
     }
     .genr p{
         padding-left:50px;
-        padding-right:50px ;
+        padding-right:50px;
         text-align: justify;
     }
 }
