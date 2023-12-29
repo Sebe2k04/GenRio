@@ -47,12 +47,13 @@ h1,h2,h3,h4,h5,h6{
 }
 .genr{
     overflow-x: hidden;
-    padding-top: 100px;
+    padding-top: 50px;
     width: 100%;
     position: absolute;
     height: 800px;
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/genr-bg.jpg);
     background-size: cover; 
     background-position: center; 
+    background-attachment: fixed;
 
 }
