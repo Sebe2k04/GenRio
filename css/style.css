@@ -4,6 +4,7 @@
 
 html {
 	scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 a{
     color: #000000;
@@ -14,22 +15,20 @@ body {
     font-family: "Poppins", sans-serif;
     margin: 0;
     background-color: #000000;
-    overflow-x: hidden;
+    background-image: url(../img/bg.jpg);
+    background-size: cover; 
+    background-position: center; 
+    background-attachment: fixed;
     color: #ffffff;
 }
 .head-bg{
     width: 100%;
 }
 .intro{
-    width: 100%;
+    font-family: 'Orbitron', sans-serif;
     height: 800px;
-    background-image: url(../img/bg1.jpg);
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
     color: #ffffff;
     font-weight: 200;
-    font-family: 'Orbitron', sans-serif;
     margin: 0;
 }
 h1,h2,h3,h4,h5,h6{
@@ -47,13 +46,14 @@ h1,h2,h3,h4,h5,h6{
 }
 .genr{
     margin: 0;
-    overflow-x: hidden;
     height: 800px;
     padding-top: 50px;
-    position: absolute;
-    background-image: url(../img/genr-bg.jpg);
-    background-size: cover; 
-    background-position: right center; 
-    background-attachment: fixed;
+    
+}
+.works{
+    margin: 0;
+    height: 800px;
+    padding-top: 50px;
+
     width: 100%;
 }
