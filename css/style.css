@@ -26,6 +26,7 @@ body {
     background-image: url(../img/bg1.jpeg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     color: #ffffff;
     font-weight: 200;
     font-family: 'Orbitron', sans-serif;
@@ -48,10 +49,10 @@ h1,h2,h3,h4,h5,h6{
     margin: 0;
     overflow-x: hidden;
     padding-top: 50px;
-    
     position: absolute;
     height: 800px;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/genr-bg.jpg);
+    background-image: url(../img/genr-bg.jpg);
     background-size: cover; 
     background-position: center; 
+    background-attachment: fixed;
 }
