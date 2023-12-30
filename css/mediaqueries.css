@@ -23,6 +23,11 @@
         padding-right: 20px;
         text-align: justify;
     }
+    .work p{
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: justify;
+    }
 }
 @media only screen and (min-width: 601px) {
     .intro{
@@ -48,6 +53,14 @@
         width: 40%;
     }
     .about p{
+        padding-left:50px;
+        padding-right:50px;
+        text-align: justify;
+    }
+    .about img{
+        width: 600px;
+    }
+    .work p{
         padding-left:50px;
         padding-right:50px;
         text-align: justify;

@@ -4,7 +4,7 @@
     background-color: #F29502;
     position: fixed;
     width: 100%;
-    z-index: 3;
+    z-index:1200;
     border-radius:0px 0px 25px 25px;
     font-weight: 500;
 }
@@ -31,7 +31,7 @@
 
 .header li a:hover,
 .header .menu-btn:hover {
-    color: rgb(121, 121, 121);
+    color: rgb(255, 255, 255);
 }
 .header .menu {
     clear: both;

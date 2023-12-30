@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;700&family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Noto+Sans:wght@300;400;500;700&family=Orbitron&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Broken+Fax&display=swap');
+
+
+
+html {
+	scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Caveat', cursive;
+    font-size: 18px;
+}
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-color:#FAB327 ;
+}
+p{
+    font-family: 'Silkscreen', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+}
+.about{
+    margin-top: 150px;
+}
+.founder img{
+    margin: 0;
+    padding: 0;
+    max-width: 90%;
+    border-radius: 20px;
+    border: 5px solid rgb(255, 255, 255);
+}
+.founder{
+    margin-top: 100px;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px){
+    p{
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: justify;
+    }
+}
+@media only screen and (min-width: 601px){
+    .founder img{
+        max-width: 50%;
+    }
+    
+    p{
+        padding-left: 50px;
+        padding-right: 50px;
+        text-align: justify;
+    }
+}
