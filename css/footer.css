@@ -5,7 +5,7 @@
 .footer {
   position: relative;
   width: 100%;
-  background: #e0ff35;
+  background: #F29502;
   min-height: 100px;
   display: flex;
   justify-content: center;
@@ -69,7 +69,7 @@
   height: 100px;
   background: url(../img/wave.png);
   background-size: 1000px 100px;
-  color: #e9f83e;
+  color: #F29502;
 }
 
 .wave#wave1 {

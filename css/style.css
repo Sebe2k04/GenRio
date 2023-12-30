@@ -13,24 +13,28 @@ a{
     text-decoration: none;
     font-weight: 600;
 }
+
 body {
     font-family: "Poppins", sans-serif;
     margin: 0;
     background-color: #000000;
-    background-image: url(../img/bg.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(../img/bg.jpg);
     background-size: cover; 
     background-position: center; 
     background-attachment: fixed;
-    color: #ebff56;
+    color:  #F29502;
 }
 .head-bg{
     width: 100%;
 }
 .intro{
     font-family: 'Orbitron', sans-serif;
-    color: #eaff00;
+    color:  #F29502;
     font-weight: 200;
     margin: 0;
+}
+.intro p{
+    font-weight: 600;
 }
 h1,h2,h3,h4,h5,h6{
     font-family: 'Orbitron', sans-serif;

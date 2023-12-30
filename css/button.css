@@ -1,8 +1,8 @@
 .btn-conteiner {
     display: flex;
     justify-content: center;
-    --color-text: #ffffff;
-    --color-background: #fffb13;
+    --color-text: #241414;
+    --color-background:  #F29502;
     --color-outline: #ffc01480;
     --color-shadow: #00000080;
   }
@@ -77,7 +77,7 @@
   /* SVG animations */
   @keyframes color_anim {
     0% {
-      fill: white;
+      fill: rgb(34, 2, 2);
     }
   
     50% {
@@ -85,7 +85,7 @@
     }
   
     100% {
-      fill: white;
+      fill: rgb(255, 6, 6);
     }
   }
   
